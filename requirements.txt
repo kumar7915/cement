@@ -1,0 +1,11 @@
+numpy==1.21.5
+pandas==1.4.2
+matplotlib==3.5.1
+auto-ts==0.0.68
+streamlit==1.14.0
+openpyxl==3.0.10
+pickle-mixin==1.0.2
+scikit-learn==1.0.2
+streamlit-option-menu==0.3.2
+pmdarima==1.8.5
+openpylx==3.0.9
