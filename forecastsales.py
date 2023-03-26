@@ -5,7 +5,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.seasonal import seasonal_decompose
-from prophet import Prophet
 from prophet.plot import plot_plotly
 from sklearn.metrics import mean_squared_error, mean_absolute_error 
 from sklearn.metrics import mean_absolute_percentage_error
